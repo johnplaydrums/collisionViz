@@ -3,7 +3,7 @@
 ### John Spencer, Michael Hendrickson, Neal "The Real Neal" Rea
 
 ## Dev Setup
-1. Move to app directory
+1. Move to app dir
 ```
 $ cd app
 ```
